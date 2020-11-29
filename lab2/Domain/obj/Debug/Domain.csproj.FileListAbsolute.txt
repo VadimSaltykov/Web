@@ -1,0 +1,73 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\Domain.dll.config
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\Domain.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\Domain.pdb
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\EntityFramework.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\EntityFramework.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\VadiK\Desktop\7part\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\VadiK\Desktop\7part\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\VadiK\Desktop\7part\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\VadiK\Desktop\7part\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\VadiK\Desktop\7part\Domain\obj\Debug\Domain.dll
+C:\Users\VadiK\Desktop\7part\Domain\obj\Debug\Domain.pdb
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\Domain.dll.config
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\Domain.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\Domain.pdb
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\EntityFramework.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\EntityFramework.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\VadiK\Desktop\lab2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\VadiK\Desktop\lab2\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\VadiK\Desktop\lab2\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\VadiK\Desktop\lab2\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\VadiK\Desktop\lab2\Domain\obj\Debug\Domain.dll
+C:\Users\VadiK\Desktop\lab2\Domain\obj\Debug\Domain.pdb

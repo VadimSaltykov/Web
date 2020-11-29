@@ -1,0 +1,107 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebUI.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\WebActivatorEx.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Moq.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\WebUI\obj\Debug\WebUI.pdb
+C:\Users\VadiK\Desktop\7part\WebUI\bin\WebUI.dll.config
+C:\Users\VadiK\Desktop\7part\WebUI\bin\WebUI.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\WebUI.pdb
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Domain.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\EntityFramework.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Moq.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Helpers.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Mvc.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Razor.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\WebActivatorEx.dll
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Domain.pdb
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Domain.dll.config
+C:\Users\VadiK\Desktop\7part\WebUI\bin\EntityFramework.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Moq.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Razor.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Helpers.xml
+C:\Users\VadiK\Desktop\7part\WebUI\bin\System.Web.Mvc.xml
+C:\Users\VadiK\Desktop\7part\WebUI\obj\Debug\WebUI.csprojAssemblyReference.cache
+C:\Users\VadiK\Desktop\7part\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\VadiK\Desktop\7part\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+C:\Users\VadiK\Desktop\7part\WebUI\obj\Debug\WebUI.dll
+C:\Users\VadiK\Desktop\7part\WebUI\obj\Debug\WebUI.pdb
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\WebUI.dll.config
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\WebUI.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\WebUI.pdb
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Domain.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\EntityFramework.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Moq.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Razor.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\WebActivatorEx.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Domain.pdb
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Domain.dll.config
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\EntityFramework.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Moq.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Razor.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\VadiK\Desktop\lab2\WebUI\obj\Debug\WebUI.csprojAssemblyReference.cache
+C:\Users\VadiK\Desktop\lab2\WebUI\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\VadiK\Desktop\lab2\WebUI\obj\Debug\WebUI.csproj.CopyComplete
+C:\Users\VadiK\Desktop\lab2\WebUI\obj\Debug\WebUI.dll
+C:\Users\VadiK\Desktop\lab2\WebUI\obj\Debug\WebUI.pdb
